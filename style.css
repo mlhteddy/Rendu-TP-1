@@ -1,0 +1,9 @@
+body {background-image: url(http://i.stack.imgur.com/ELzh4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat; 
+	display: flex;
+	justifiy-content:center;
+	align-items:center;
+	padding: 0;
+	margin: 0;
+	height: 100%;
